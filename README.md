@@ -48,3 +48,7 @@ let slider = new Slighter(
     5000 // frame duration in ms
 );
 ```
+
+---
+
+<p align="center">All images from this repository are all rights reserved © Paul Kepinski</p>
