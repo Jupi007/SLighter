@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>SLighter - Demo</title>
+
+        <link rel="stylesheet" href="vendor/csstart.min.css">
+        <link rel="stylesheet" href="build/slighter.css">
+
+        <style>
+            main {
+                max-width: 1000px;
+                margin: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <main class="p">
+            <h1 class="txt-center">SLighter - Demo</h1>
+            <div class="my-x-large">
+                <div class="slider">
+                    <img src="images/dsc8311.jpg" alt="Slide">
+                    <img src="images/dsc2164.jpg" alt="Slide">
+                    <img src="images/dsc9210.jpg" alt="Slide">
+                </div>
+            </div>
+            <p>© All rights reserved on pictures - Paul Kepinski</p>
+        </main>
+
+        <script src="build/slighter.js"></script>
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', () => {
+                let slider = new Slighter(document.querySelector('.slider'), 5000);
+            });
+        </script>
+    </body>
+</html>
