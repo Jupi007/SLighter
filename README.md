@@ -1,6 +1,6 @@
 <h1 align="center">SLighter</h1>
 
-<p align="center">A lightweight slidebox in pure javscript with css animation.</p>
+<p align="center">A lightweight slideshow in pure javscript with css animation.</p>
 
 ## Usage
 
