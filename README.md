@@ -12,12 +12,12 @@ Firstly include the script and the stylesheet (it is recommended to customize th
 <html>
   <head>
     ...
-    <link rel="stylesheet" href="src/slighter.css">
+    <link rel="stylesheet" href="build/slighter.css">
     ...
   </head>
   <body>
     ...
-    <script src="src/slighter.js"></script>
+    <script src="build/slighter.js"></script>
   </body>
 ```
 
