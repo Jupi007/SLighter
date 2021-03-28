@@ -1,6 +1,7 @@
 <h1 align="center">SLighter</h1>
 
-<p align="center">A lightweight slideshow in pure javscript with css animation.</p>
+<p align="center">An ultra-lightweight slideshow in pure javscript with css animation</p>
+<p align="center">See <a href="https://jupi007.github.io/SLighter/demo.html">Demo</a></p>
 
 ## Usage
 
@@ -11,12 +12,12 @@ Firstly include the script and the stylesheet (it is recommended to customize th
 <html>
   <head>
     ...
-    <link rel="stylesheet" href="src/slighter.css">
+    <link rel="stylesheet" href="build/slighter.css">
     ...
   </head>
   <body>
     ...
-    <script src="src/slighter.js"></script>
+    <script src="build/slighter.js"></script>
   </body>
 ```
 
@@ -47,3 +48,7 @@ let slider = new Slighter(
     5000 // frame duration in ms
 );
 ```
+
+---
+
+<p align="center">All images from this repository are all rights reserved © Paul Kepinski</p>
