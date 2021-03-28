@@ -1,7 +1,7 @@
 <h1 align="center">SLighter</h1>
 
 <p align="center">A lightweight slideshow in pure javscript with css animation</p>
-<p align="center">See <a href="https://jupiter007-43.github.io/SLighter/demo.html">Demo</a></p>
+<p align="center">See <a href="https://jupi007.github.io/SLighter/demo.html">Demo</a></p>
 
 ## Usage
 
